@@ -60,7 +60,9 @@ InstagramのDMやメールで通販の注⽂を受けていたが、情報管理
 
 # 設計
 * テーブル定義書
+https://docs.google.com/spreadsheets/d/1JjZ1_FR69LKvNFqV70HfwbM7E1auKqk32-I8qQfx86o/edit#gid=1694705916
 * アプリケーション詳細設計
+https://docs.google.com/spreadsheets/d/1OCwwNUjOj019mVaOwgJgLgAFqTFp1KXEqeg6qOF1Fc0/edit#gid=1664340276
 * ER図
 <img width="501" alt="スクリーンショット 2020-12-06 1 41 09" src="https://user-images.githubusercontent.com/68366293/101258290-e731f400-3764-11eb-940e-b43214f0511a.png">
 
