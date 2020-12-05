@@ -1,0 +1,114 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+/*------------全体-----------*/
+#wrapper {
+    background-color: white;
+    font-family: HiraMinPro-W6;
+    color: #000000;
+    position: relative;
+    box-sizing: border-box;
+    padding-bottom: 200px;
+    min-height: 100vh;
+}
+
+/*---------------ヘッダー--------------*/
+
+header {
+	background-color: #444444;
+	color: #000;
+	margin-bottom: 100px;
+}
+.header_logo {
+	margin-top: 5px;
+}
+.navlist_item {
+	margin-top: 30px;
+}
+
+#welcom_cutoumer {
+	font-family: HiraMinPro-W6;
+    margin-top: 15px;
+    color: #fff;
+}
+
+.header_menu {
+	font-family: HiraMinPro-W6;
+	color: #FFFFFF;
+}
+
+.partition {
+	font-family: Osaka;
+	margin-top: 15px;
+	color: #696969;
+}
+
+.navbar-nav {
+   margin-top: 30px;
+}
+
+
+/*-----------body------------*/
+
+.containar {
+	padding-top: 100px;
+    padding-bottom: 100px;
+	background-color: white;
+	min-height: 100vh;
+	position: absolute;
+	box-sizing: border-box;
+}
+
+
+
+/*-----------footer------------*/
+
+footer {
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	background-color: #444444;
+}
+
+/*---------topスライドショー--------*/
+
+.c{
+  height: 500px;
+  width :100%;
+}
+
+.slick-dots {
+  li {
+    font-size: 20px !important;
+    button:before {
+      content: "🐾" !important;
+      font-size: 14px !important;
+      color: rgb(60, 60, 60) !important;
+    }
+  }
+}
+
+.registration_btn {
+  margin-bottom: 10px;
+}
+
+/*--------cus/items/show--------------*/
+.items-box {
+  padding-top: 120px;
+}
