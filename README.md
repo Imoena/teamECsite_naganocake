@@ -59,7 +59,7 @@ InstagramのDMやメールで通販の注⽂を受けていたが、情報管理
 <img width="1195" alt="order_details" src="https://user-images.githubusercontent.com/68366293/101247158-fad85d00-375a-11eb-87d1-cd915007e5c9.png">
 
 # 設計
-* テーブル定義書
+* テーブル定義書  
 https://docs.google.com/spreadsheets/d/1JjZ1_FR69LKvNFqV70HfwbM7E1auKqk32-I8qQfx86o/edit#gid=1694705916
 * アプリケーション詳細設計
 https://docs.google.com/spreadsheets/d/1OCwwNUjOj019mVaOwgJgLgAFqTFp1KXEqeg6qOF1Fc0/edit#gid=1664340276
