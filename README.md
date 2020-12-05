@@ -76,3 +76,10 @@ https://docs.google.com/spreadsheets/d/1OCwwNUjOj019mVaOwgJgLgAFqTFp1KXEqeg6qOF1
 * 'jquery-rails'
 * "refile"
 * "refile-mini_magick"
+
+# メンバー
+<b><a><a href="https://github.com/akihiro1993"><img src="https://github.com/akihiro1993.png" width="70px;" /></a></b>
+<b><a><a href="https://github.com/ee090261"><img src="https://github.com/ee090261.png" width="70px;" /></a></b>
+<b><a><a href="https://github.com/hiroyuki-ops"><img src="https://github.com/hiroyuki-ops.png" width="70px;" /></a></b>
+<b><a><a href="https://github.com/Imoena"><img src="https://github.com/Imoena.png" width="70px;" /></a></b>
+  
