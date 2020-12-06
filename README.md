@@ -1,4 +1,4 @@
-<img width="567" alt="top_picture" src="https://user-images.githubusercontent.com/68366293/101247731-75ef4280-375e-11eb-8d65-2fcd1935b03a.png">
+<img width="574" alt="caption" src="https://user-images.githubusercontent.com/68366293/101270618-fa24e280-37bd-11eb-9699-46b7d6a81eb3.png">
 
 # 『Nagano cake』
 
